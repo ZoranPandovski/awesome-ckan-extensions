@@ -5,6 +5,11 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ZoranPandovski)
 
+## Introduction 
+
+[CKAN](https://github.com/ckan/ckan) is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data.
+A CKAN EXTENSION is a Python package that modifies or extends CKAN. Each extension contains one or more plugins that must be added to your CKAN config file to activate the extension’s features. For more info check [extensions tutorial.](http://docs.ckan.org/en/ckan-2.7.3/extensions/tutorial.html)
+
 ## List of extensions
 
 | Name | Description |
