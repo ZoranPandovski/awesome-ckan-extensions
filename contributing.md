@@ -7,7 +7,8 @@ Please ensure your pull request adheres to the following guidelines:
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
+* Add short description about the extension
 
-As always, thank you for your suggestions!
+Ideas and suggestions how to make this awesome list more awesome are welcome and as always, thank you for your suggestions!
 
 
