@@ -36,6 +36,7 @@ Follow our [contribution guide](https://github.com/ZoranPandovski/awesome-ckan-e
 | :open_file_folder: | [ckanext-odata](https://github.com/jqnatividad/ckanext-odata) | CKAN OData support to connect to tools like Tableau.
 | :notebook: | [ckanext-pages](https://github.com/ckan/ckanext-pages) | This extension gives you an easy way to add simple pages to CKAN.
 | :earth_africa: | [ckanext-spatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
+| :fast_forward: | [ckanext-xloader](https://github.com/ckan/ckanext-xloader) | Designed as a replacement for DataPusher because it offers ten times the speed and more robustness.
 
 
 
